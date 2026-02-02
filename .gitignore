@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment Variables (¡MUY IMPORTANTE!)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Output files generados por el agente (para no ensuciar el repo)
+plan_semanal.json
+plan_semanal_final.json
+plan_semanal.txt
+plan_semanal.pdf

@@ -1,0 +1,13 @@
+# Core Frameworks
+langgraph
+langchain
+langchain-core
+langchain-groq
+
+# Data Validation & Utilities
+pydantic
+python-dotenv
+
+# Opcionales (si decides usar visualización en Studio o Notebooks)
+# langgraph-checkpoint
+# grandalf
