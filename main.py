@@ -1,7 +1,6 @@
 from src.graph import app
 
 if __name__ == "__main__":
-    # Ejemplo complejo para forzar al sistema a pensar
     prompt_usuario = """
     Hola IA, necesito organizar mi semana.
     1. Preparar el Q3 report (Prioridad Alta, Energía Alta). No sé cuánto dura, calcúlalo tú.

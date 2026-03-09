@@ -1,4 +1,4 @@
-from langchain_groq import ChatGroq # <--- CAMBIO AQUÍ
+from langchain_groq import ChatGroq 
 from dotenv import load_dotenv
 load_dotenv()
 
