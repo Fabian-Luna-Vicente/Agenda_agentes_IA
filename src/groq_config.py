@@ -4,7 +4,7 @@ load_dotenv()
 
 llm = ChatGroq(
     model="llama-3.3-70b-versatile", 
-    temperature=0,
+    temperature=0.2,
     max_retries=2,
     stop_sequences=None 
 )

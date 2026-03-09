@@ -11,7 +11,7 @@ if __name__ == "__main__":
 
     print("🚀 INICIANDO SISTEMA DE AGENTES (Powered by Groq)...")
     
-    # Invocamos el grafo. LangGraph maneja el estado internamente.
+
     resultado = app.invoke({"input_usuario": prompt_usuario, "revisiones": 0})
     
     print("\n" + "="*50)
